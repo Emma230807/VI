@@ -1,2 +1,0 @@
-# VI
-Visualisador de imagenes 
